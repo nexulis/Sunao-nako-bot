@@ -126,7 +126,8 @@ ${a} ┣⊱ Nombre : ${pushname}${a}
  ${a}┣⊱ XP : ${getLevelingXp(sender)}/${reqXp} ${a}
  ${a}┣⊱ Level : ${getLevelingLevel(sender)}${a}
  ${a}┣⊱ Rol : ${role}${a}
- ${a}┣⊱ Canal: https://youtube.com/channel/UClsFXRmSwE3JAWAJMhSnwQQ
+ ${a}┣⊱ Canal Mr.Pato: https://youtube.com/channel/UClsFXRmSwE3JAWAJMhSnwQQ
+ ${a}┣⊱ Canal Andres: https://youtube.com/channel/UCVbV68Y057VNW31vPRiRiVA
  ${a}┣⊱*Grupo 1* :  https://chat.whatsapp.com/GUdiX6cuCE1I14hNTPzhae
  ${a}┣⊱*Grupo 2* : https://chat.whatsapp.com/JyD8Vj11LPu1TofWhWnYMA
  ${a}┣⊱ Registro de usuarios : ${_registered.length}${a}
@@ -312,7 +313,7 @@ ${a}❏THANKS TO${a}
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel, role) => {
 	return`
 	
-*「 SELAMAT 」*
+*「 Nivel 」*
 ┏⊱ *Nombre* : ${pushname}
 ┣⊱ *Númeror* : wa.me/${sender.split("@")[0]}
 ┣⊱ *Xp* : ${getLevelingXp(sender)}
