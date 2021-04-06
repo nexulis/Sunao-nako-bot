@@ -4,9 +4,9 @@ pkg install git
 
 pkg install ffmpeg
 
-git clone https://github.com/Mr-Pato/V2Patowsp
+git clone https://github.com/nexulis/Sunao-nako-bot
 
-cd V2Patowsp
+cd Sunao-Nako-Bot
 
 bash install.sh
 
