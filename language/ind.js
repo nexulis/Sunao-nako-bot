@@ -126,10 +126,10 @@ ${a} ┣⊱ Nombre : ${pushname}${a}
  ${a}┣⊱ XP : ${getLevelingXp(sender)}/${reqXp} ${a}
  ${a}┣⊱ Level : ${getLevelingLevel(sender)}${a}
  ${a}┣⊱ Rol : ${role}${a}
- ${a}┣⊱ Canal Mr.Pato: https://youtube.com/channel/UClsFXRmSwE3JAWAJMhSnwQQ
- ${a}┣⊱ Canal Andres: https://youtube.com/channel/UCVbV68Y057VNW31vPRiRiVA
- ${a}┣⊱*Grupo 1* :  https://chat.whatsapp.com/GUdiX6cuCE1I14hNTPzhae
- ${a}┣⊱*Grupo 2* : https://chat.whatsapp.com/JyD8Vj11LPu1TofWhWnYMA
+ ${a}┣⊱ Canal : no hay ni existe xd 
+ ${a}┣⊱ Canal 2: alguien tiene canal xd?
+ ${a}┣⊱*Grupo 1* :  https://chat.whatsapp.com/KrOPU0QCVbi75kaPtosviy
+ ${a}┣⊱*Grupo 2* : ja para que o que xd ?
  ${a}┣⊱ Registro de usuarios : ${_registered.length}${a}
      ┗━━━━━━━━━━━━━
  ────────╠███████───███████╠─────────────
@@ -333,7 +333,7 @@ exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel,
 ┏⊱ *Nombre* : ${pushname}
 ┣⊱ *Númeror* : wa.me/${sender.split("@")[0]}
 ┣⊱ *Xp* : ${getLevelingXp(sender)}
-┣⊱ *Limit* : +3
+┣⊱ *Limit* : +20
 ┣⊱ *Role*: ${role}
 ┗⊱ *Level* : ${getLevel} ⊱ ${getLevelingLevel(sender)}
 `}
@@ -362,14 +362,14 @@ exports.premadd = (pnom) => {
 	return`*「 PREMIUM ADD 」*
 
 *Nombre* : ${pnom}
-*Expired* : 30 DAY\n*Disfruta el premium*`
+*Expired* : 30 DAY\n*Disfruta el premium lastimosamente no de porhub*`
 }
 
 exports.dellprem = (hnom) => {
 	return`*「 PREMIUM DELETE 」*
 
 *Nombre* : ${hnom}
-*Expired* : Sorry tu premium termino*`
+*Expired* : Sorry tu premium termino asi que ve y sacate alv*`
 }
 
 exports.premon = (pushname) => {
