@@ -48,7 +48,7 @@ blocked = []
 prefix = '-'
 limitawal = 30
 memberlimit = 0
-ator = 'SUBSCRIBE'
+ator = 'te amo wilder 0w0 xd'
 namo = 'Mr akaza'
 cr = '𝕸𝖗.𝕻𝖆𝖙𝖔 -𝕭𝖔𝖙⚜️🦆⁩⁩'
 /*************************************/
